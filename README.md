@@ -22,6 +22,8 @@ Solved the issue where the connection string was only configured for my computer
 
 # Snake 2.2.2
 
+(most recent version)
+
 Made some significant UI changes and attempted to implement the Top Ten scores feature, but ran into some issues with the SQL code which wouldn't allow me to use a SELECT statement. Working on a fix, and when implemented will post as version 2.3 .
 
 # Future Plans
