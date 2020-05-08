@@ -25,6 +25,7 @@ Solved the issue where the connection string was only configured for my computer
 (most recent version)
 
 Made some significant UI changes and attempted to implement the Top Ten scores feature, but ran into some issues with the SQL code which wouldn't allow me to use a SELECT statement. Working on a fix, and when implemented will post as version 2.3 .
+Completely refactored the logic of the program, instead of existing within loops under one piece of code, it is now factored into many classes and methods. This is both easier to understand and complient with the Single Responsibility Principle.
 
 # Future Plans
 
