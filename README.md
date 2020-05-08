@@ -10,7 +10,7 @@ This code is based off of the code found in this: (https://github.com/MrNeonMan1
 
 This version added a significant number of additional features, namely user selection of different settings. Specifically, it added various map sizes, speeds which alter difficulty, and a setting which gradually increases the speed of the snake, as well as some user-friendly UI improvements.
 
-#Snake 2.2
+# Snake 2.2
 
 (most recent version)
 
