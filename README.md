@@ -31,9 +31,13 @@ Added a score counter and some other minor fixes and improvements.
 
 # Snake 2.3
 
+What an exciting update! I found the error in my C# database implementation (I missed a space in between a variable name and a keyword) and now everything is functioning as intended. This completes the basic implementation of the database, which is why I am proud to announce that this version is the long-awaited version 2.3 .
+
+# Snake 2.3.1
+
 (most recent version)
 
-What an exciting update! I found the error in my C# database implementation (I missed a space in between a variable name and a keyword) and now everything is functioning as intended. This completes the basic implementation of the database, which is why I am proud to announce that this version is the long-awaited version 2.3 .
+Bug fixes and UI improvements!
 
 # Future Plans
 
