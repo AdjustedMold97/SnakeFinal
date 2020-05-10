@@ -27,10 +27,14 @@ Completely refactored the logic of the program, instead of existing within loops
 
 # Snake 2.2.3
 
+Added a score counter and some other minor fixes and improvements.
+
+# Snake 2.3
+
 (most recent version)
 
-Added a score counter and some other minor fixes and improvements.
+What an exciting update! I found the error in my C# database implementation (I missed a space in between a variable name and a keyword) and now everything is functioning as intended. This completes the basic implementation of the database, which is why I am proud to announce that this version is the long-awaited version 2.3 .
 
 # Future Plans
 
-I'm currently working on Snake 2.3, which is going to have some UI improvements, refactorings within the code, and some much deserved cleaning.
+Snake 2.4 may include either an online database (unlikely to be honest) or some minor UI and other improvements.
